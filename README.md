@@ -31,13 +31,13 @@ JavaScript (optional, for any interactive elements)
 Google Fonts API
 Output
 
-![Screenshot (13)](https://github.com/saurabhalagdeve/Ceramics-Website/assets/127332934/d316faa0-1c22-4f95-8854-6de7d8493dbd)
+![Screenshot (12)](https://github.com/saurabhalagdeve/Ceramics-Website/assets/127332934/05b4a7d8-ff3c-493d-a15f-38ab10734340)
 
 
  Screen Shot 1 ⬆️⬆️⬆️
 
+![Screenshot (13)](https://github.com/saurabhalagdeve/Ceramics-Website/assets/127332934/d316faa0-1c22-4f95-8854-6de7d8493dbd)
 
-![Screenshot (12)](https://github.com/saurabhalagdeve/Ceramics-Website/assets/127332934/05b4a7d8-ff3c-493d-a15f-38ab10734340)
 
 
 Screen Shot 2 ⬆️⬆️⬆️
